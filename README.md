@@ -1,0 +1,3 @@
+- 👋 - Hi, I’m @martintmv - Software Developer based in the Netherlands.
+- 🌱 - I’m interested in Software, Design, Artificial Intelligence, Security, Blockchain, Encryption and Privacy.
+- 📫 - Let's Connect - [DM me](https://linktr.ee/martintmv).
