@@ -1,7 +1,7 @@
 # 🧑🏻‍💻 About Me <br>
 [martintomov.com](https://martintomov.com)
 
-I'm a **Software Developer** who loves to build high-performance **full stack** web and native apps, focusing on scalability and UX.<br>
+I'm a **Software Developer** who loves to build high-performance **full stack** web apps, focusing on scalability and UX.<br>
 
 In the **Machine Learning / Deep Learning** space I research, build, experiment and play around with AI models.
 
