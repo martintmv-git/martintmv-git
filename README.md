@@ -7,6 +7,3 @@
 In the machine learning / deep learning space I research, build and experiment with ai models.
 
 I also love to build high-performance full stack web apps, focusing on scalability and ux.
-
-# 📊 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=martintmv-git&theme=dark&hide_border=true)<br/>
