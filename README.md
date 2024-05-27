@@ -1,4 +1,5 @@
-![banner](https://github.com/martintmv-git/martintmv-git/assets/101264514/99054051-413c-492a-82f7-d5c6fdfb0856)
+![banner](https://github.com/martintmv-git/martintmv-git/assets/101264514/0ff302ea-2967-4a2b-9099-9942382f5438)
+
 
 # 🧑🏻‍💻 About Me <br>
 [martintomov.com](https://martintomov.com) <br>
